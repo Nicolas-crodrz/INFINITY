@@ -1,7 +1,7 @@
 
 # **ANIMACION DE ♾️ SOLO CON CSS**
 
-![Gif de la animacion](img/INFINITY.gif "♾️")
+![Gif de la animacion](INFINITY/img/INFINITY.gif "♾️")
 
 ## **INFORMACION**
 
